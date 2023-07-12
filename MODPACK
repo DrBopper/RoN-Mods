@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<mod_list>
+  <mod name="300BLK M4 GEISSELE MK8 (ARN-180)" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/300BLK%20M4%20GEISSELE%20MK8%20%28ARN-180%29.zip"></mod>
+  <mod name="300BLK MAG (ARN-180) MAG" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/300BLK%20MAG%20%28ARN-180%29%20MAG.zip"></mod>
+  <mod name="AI (SOLO) Less team collision" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/AI%20%28SOLO%29%20Less%20team%20collision.zip"></mod>
+  <mod name="AI BAX More Realistic" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/AI%20BAX%20More%20Realistic.zip"></mod>
+  <mod name="AI Damage Rebuff Disemberment" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/AI%20Damage%20Rebuff%20Disemberment.zip"></mod>
+  <mod name="AI Door Kicker 100" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/AI%20Door%20Kicker%20100.zip"></mod>
+  <mod name="AI Extreme Tactical Hard" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/AI%20Extreme%20Tactical%20Hard.zip"></mod>
+  <mod name="AI Ludicrous Terrorist Hunt" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/AI%20Ludicrous%20Terrorist%20Hunt.zip"></mod>
+  <mod name="AI Military Tactical Hard" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/AI%20Military%20Tactical%20Hard.zip"></mod>
+  <mod name="AI New Scoring System" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/AI%20New%20Scoring%20System.zip"></mod>
+  <mod name="AI Real Terrorist Hunt" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/AI%20Real%20Terrorist%20Hunt.zip"></mod>
+  <mod name="AI Terrorist Hunt" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/AI%20Terrorist%20Hunt.zip"></mod>
+  <mod name="AI Unreal Terrorist Hunt" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/AI%20Unreal%20Terrorist%20Hunt.zip"></mod>
+  <mod name="ArmeTSWAT" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/ArmeTSWAT.zip"></mod>
+  <mod name="Avon Blacklens" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/Avon%20Blacklens.zip"></mod>
+  <mod name="BAL AKalfa PMAG (SLR47)" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/BAL%20AKalfa%20PMAG%20%28SLR47%29.zip"></mod>
+  <mod name="BAL Ballistic Howa20 (MK16)" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/BAL%20Ballistic%20Howa20%20%28MK16%29.zip"></mod>
+  <mod name="BAL HAMR-DP" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/BAL%20HAMR-DP.zip"></mod>
+  <mod name="BAL PMAG MK18" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/BAL%20PMAG%20MK18.zip"></mod>
+  <mod name="BAL SIG MK18" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/BAL%20SIG%20MK18.zip"></mod>
+  <mod name="BAL SIG-MPX" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/BAL%20SIG-MPX.zip"></mod>
+  <mod name="BAL UMP45" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/BAL%20UMP45.zip"></mod>
+  <mod name="BCM TX-15 (SR-16)" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/BCM%20TX-15%20%28SR-16%29.zip"></mod>
+  <mod name="Better Laser (Makes a visible line from your laser pointer)" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/Better%20Laser%20%28Makes%20a%20visible%20line%20from%20your%20laser%20pointer%29.zip"></mod>
+  <mod name="Black Pmag ARWC" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/Black%20Pmag%20ARWC.zip"></mod>
+  <mod name="Black Pmag m4" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/Black%20Pmag%20m4.zip"></mod>
+  <mod name="Everything Unlocked" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/Everything%20Unlocked.zip"></mod>
+  <mod name="Flashlight 500lumens SUREFIRE" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/Flashlight%20500lumens%20SUREFIRE.zip"></mod>
+  <mod name="GPNVG-18 Overlay" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/GPNVG-18%20Overlay.zip"></mod>
+  <mod name="Gunfighter Improved" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/Gunfighter%20Improved.zip"></mod>
+  <mod name="HK433 Black v2" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/HK433%20Black%20v2.zip"></mod>
+  <mod name="InGameMenu" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/InGameMenu.zip"></mod>
+  <mod name="KAC M4 PMAG" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/KAC%20M4%20PMAG.zip"></mod>
+  <mod name="KAC URX M4 (M4A1)" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/KAC%20URX%20M4%20%28M4A1%29.zip"></mod>
+  <mod name="LAPD SWAT RESKIN HRT" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/LAPD%20SWAT%20RESKIN%20HRT.zip"></mod>
+  <mod name="M4 Sleketon (MK1 Carbine)" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/M4%20Sleketon%20%28MK1%20Carbine%29.zip"></mod>
+  <mod name="MagpulRVG BLK" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/MagpulRVG%20BLK.zip"></mod>
+  <mod name="Map 22nd Street" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/Map%2022nd%20Street.zip"></mod>
+  <mod name="Map Breaking News" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/Map%20Breaking%20News.zip"></mod>
+  <mod name="MAP Diamond Store" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/MAP%20Diamond%20Store.zip"></mod>
+  <mod name="Map Fairfax" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/Map%20Fairfax.zip"></mod>
+  <mod name="Map Forest House" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/Map%20Forest%20House.zip"></mod>
+  <mod name="Map Kabul" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/Map%20Kabul.zip"></mod>
+  <mod name="MAP Lustfull Remorse" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/MAP%20Lustfull%20Remorse.zip"></mod>
+  <mod name="Map Metero Station" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/Map%20Metero%20Station.zip"></mod>
+  <mod name="MAP Notsoconvinient Night" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/MAP%20Notsoconvinient%20Night.zip"></mod>
+  <mod name="MAP Olympus Theater" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/MAP%20Olympus%20Theater.zip"></mod>
+  <mod name="Map Psych Hospital" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/Map%20Psych%20Hospital.zip"></mod>
+  <mod name="Map Reap Restore Hotel" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/Map%20Reap%20Restore%20Hotel.zip"></mod>
+  <mod name="MAP Research Lab" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/MAP%20Research%20Lab.zip"></mod>
+  <mod name="Map Shifter Exposition" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/Map%20Shifter%20Exposition.zip"></mod>
+  <mod name="Map Storage House" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/Map%20Storage%20House.zip"></mod>
+  <mod name="Map SuperAclub" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/Map%20SuperAclub.zip"></mod>
+  <mod name="MAP Supermarket" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/MAP%20Supermarket.zip"></mod>
+  <mod name="Map Victory Importers" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/Map%20Victory%20Importers.zip"></mod>
+  <mod name="Map Wenderly Motel" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/Map%20Wenderly%20Motel.zip"></mod>
+  <mod name="Masked AMP fix" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/Masked%20AMP%20fix.zip"></mod>
+  <mod name="MKH DDM47 BLK (SR16)" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/MKH%20DDM47%20BLK%20%28SR16%29.zip"></mod>
+  <mod name="MKH MCXTele (HK416)" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/MKH%20MCXTele%20%28HK416%29.zip"></mod>
+  <mod name="MOD Camera" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/MOD%20Camera.zip"></mod>
+  <mod name="MP7A2" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/MP7A2.zip"></mod>
+  <mod name="NO AI SWAT TEAM" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/NO%20AI%20SWAT%20TEAM.zip"></mod>
+  <mod name="NVG fullscreen Rework" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/NVG%20fullscreen%20Rework.zip"></mod>
+  <mod name="NVI-00" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/NVI-00.zip"></mod>
+  <mod name="P90" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/P90.zip"></mod>
+  <mod name="PEQ15 laser" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/PEQ15%20laser.zip"></mod>
+  <mod name="Pistol ARK17 BKS (G19)" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/Pistol%20ARK17%20BKS%20%28G19%29.zip"></mod>
+  <mod name="Pistol FN57 (57 USG)" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/Pistol%20FN57%20%2857%20USG%29.zip"></mod>
+  <mod name="Pistol FNX45 (USP)" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/Pistol%20FNX45%20%28USP%29.zip"></mod>
+  <mod name="Pistol M4A1 2011" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/Pistol%20M4A1%202011.zip"></mod>
+  <mod name="RE8 NVG Black and Red" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/RE8%20NVG%20Black%20and%20Red.zip"></mod>
+  <mod name="Respawn Mod" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/Respawn%20Mod.zip"></mod>
+  <mod name="SA-58 Athena" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/SA-58%20Athena.zip"></mod>
+  <mod name="Scar MK16 PMAG" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/Scar%20MK16%20PMAG.zip"></mod>
+  <mod name="SIGHT ACROPS (crashfix)" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/SIGHT%20ACROPS%20%28crashfix%29.zip"></mod>
+  <mod name="SIGHT BAL ACRO P2" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/SIGHT%20BAL%20ACRO%20P2.zip"></mod>
+  <mod name="SIGHT BAL Walther MRS (replace T2 tall mount)" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/SIGHT%20BAL%20Walther%20MRS%20%28replace%20T2%20tall%20mount%29.zip"></mod>
+  <mod name="SIGHT Strikefire 2 (M5B)" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/SIGHT%20Strikefire%202%20%28M5B%29.zip"></mod>
+  <mod name="SKIN HRTRanger" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/SKIN%20HRTRanger.zip"></mod>
+  <mod name="SKIN LAPD 4k res ALLBLACK" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/SKIN%20LAPD%204k%20res%20ALLBLACK.zip"></mod>
+  <mod name="SKIN LAPD 4k res BASE" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/SKIN%20LAPD%204k%20res%20BASE.zip"></mod>
+  <mod name="SR16 Pmag" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/SR16%20Pmag.zip"></mod>
+  <mod name="SWAT 4 Voice Overhaul and TOC" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/SWAT%204%20Voice%20Overhaul%20and%20TOC.zip"></mod>
+  <mod name="Tinted Goggles Opaque" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/Tinted%20Goggles%20Opaque.zip"></mod>
+  <mod name="Trex Optic" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/Trex%20Optic.zip"></mod>
+  <mod name="UnityFastMicroMount (SRS)" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/UnityFastMicroMount%20%28SRS%29.zip"></mod>
+  <mod name="Wrapped Supressor 2" version="0.0.0" url="https://github.com/DrBopper/RoN-Mods.git/Wrapped%20Supressor%202.zip"></mod>
+</mod_list>
